@@ -76,3 +76,12 @@ Windows IP 配置
    默认网关. . . . . . . . . . . . . : 192.168.0.1
 whoami
 lianxiang\本地
+net user
+
+\\ 的用户帐户
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+root                     WDAGUtilityAccount       本地                     
+命令运行完毕，但发生一个或多个错误。
+
