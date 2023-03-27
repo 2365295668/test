@@ -80,3 +80,12 @@ dir
                5 个文件          6,184 字节
                3 个目录 41,199,878,144 可用字节
 netuser
+net user
+
+\\ 的用户帐户
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+root                     WDAGUtilityAccount       本地                     
+命令运行完毕，但发生一个或多个错误。
+
