@@ -92,3 +92,4 @@ root                     WDAGUtilityAccount       本地
 dir$ipconfig
 
 ifconfig
+pconfig
